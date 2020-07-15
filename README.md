@@ -1,0 +1,1 @@
+save directory is in %localappdata%\FactoryGame\Saved\SaveGames\
